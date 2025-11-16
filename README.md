@@ -1,4 +1,4 @@
-#🚗 Car Booking System
+ # Car Booking System
 A simple and efficient Car Booking System designed to make the process of searching, selecting, and booking cars easy and user-friendly.
 This project allows users to browse available cars, check details like price, model, and availability, and complete bookings smoothly.
 
